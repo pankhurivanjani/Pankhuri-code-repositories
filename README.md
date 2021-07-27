@@ -19,6 +19,8 @@ https://github.com/pankhurivanjani/r2c2
 
 #Course project work
 
+https://github.com/nik1806/Semantic-segmentation
+
 https://github.com/pankhurivanjani/MuSACNet
 
 https://github.com/pankhurivanjani/rendering-competition-CG/tree/rc-draft 
