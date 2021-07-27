@@ -11,7 +11,11 @@ https://github.com/TheRoboticsClub/colab-Pankhuri_Vanjani
 
 https://github.com/pankhurivanjani/Multi-UAV-collision-avoidance  
 
+https://github.com/pankhurivanjani/GCP-Localization
+
 https://github.com/pankhurivanjani/Plant-leaf-infection-detection 
+
+https://github.com/pankhurivanjani/Extended_plant_disease_detecttion
 
 https://github.com/pankhurivanjani/ARL_Work_Dec19-june20 
 
