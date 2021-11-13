@@ -23,11 +23,15 @@ https://github.com/pankhurivanjani/r2c2
 
 #Course project work
 
-https://github.com/nik1806/Semantic-segmentation
+https://github.com/pankhurivanjani/hlcv2021 (high level computer vision)
 
-https://github.com/pankhurivanjani/MuSACNet
+https://github.com/pankhurivanjani/dsp2021 (Digital signal processing porjects on speech segmentation and kalman filter tracking)
 
-https://github.com/pankhurivanjani/rendering-competition-CG/tree/rc-draft 
+https://github.com/nik1806/Semantic-segmentation (Semantic Segmentation)
+
+https://github.com/pankhurivanjani/MuSACNet (CRF based Stereo matching)
+
+https://github.com/pankhurivanjani/rendering-competition-CG/tree/rc-draft (ray tracer)
 
 https://github.com/pankhurivanjani/gtwcn-mid_sem-assignment  
 
