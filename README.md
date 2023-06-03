@@ -23,6 +23,8 @@ https://github.com/pankhurivanjani/r2c2
 
 #Course project work
 
+https://github.com/pankhurivanjani/Proactive-and-Reactive-Measures-for-Adversarial-Defense (Machine Learning for Cybersecurity)
+
 https://github.com/pankhurivanjani/hlcv2021 (high level computer vision)
 
 https://github.com/pankhurivanjani/dsp2021 (Digital signal processing porjects on speech segmentation and kalman filter tracking)
